@@ -1,1 +1,1 @@
-Plataforma com video do Jogo Horizon Zero Dawn.
+Plataforma com videos do Jogo Horizon Zero Dawn.
